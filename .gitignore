@@ -1,0 +1,10 @@
+
+.vscode
+.DS_Store
+.idea
+
+.env
+.env*
+
+output
+node_modules

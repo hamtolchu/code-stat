@@ -1,0 +1,15 @@
+{
+	"scripts": {
+		"start": "ts-node ./index.ts"
+	},
+	"dependencies": {
+		"@fxts/core": "^0.14.0",
+		"typescript": "^5.0.3"
+	},
+	"devDependencies": {
+		"@kurly/prettier-config": "^0.0.0",
+		"@types/node": "^18.15.11",
+		"ts-node": "^10.9.1"
+	},
+	"prettier": "@kurly/prettier-config"
+}
